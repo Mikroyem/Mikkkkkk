@@ -6,4 +6,4 @@
 │   ├── pdf_generator.py
 │   ├── activation.py
 │   ├── notifications.py
-│   └── reports.py
+│   └── reports.
